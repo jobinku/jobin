@@ -10,7 +10,7 @@ Channel : © @MOVIES_NIGHTG
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
-    DOWNLOAD_START = "📥 downloading"
+    DOWNLOAD_START = "📥 download"
     UPLOAD_START = "📥 uploading"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**"
